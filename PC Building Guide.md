@@ -6,13 +6,13 @@ A great way to do this is to visit pcpartpicker.com, and find a parts list from 
 
 1.	Install the following components on the motherboard in the following slots
 
-  a.	Install the RAM in the ram slots, in the diagram provided it’s labeled 1. Ensure that the notch on the RAM stick is lined up with the slot in the slot.
+    a.	Install the RAM in the ram slots, in the diagram provided it’s labeled 1. Ensure that the notch on the RAM stick is lined up with the slot in the slot.
 
-  b.	Install the CPU in the CPU slot, labeled 2 in the diagram. Ensure that the CPU is oriented correctly. There will often be a marking on the CPU, and a similar marking on the motherboard   which will line up.
+    b.	Install the CPU in the CPU slot, labeled 2 in the diagram. Ensure that the CPU is oriented correctly. There will often be a marking on the CPU, and a similar marking on the motherboard   which will line up.
   
-  c.	If you have a NVMe SSD, install it in one of the NVMe slots indicated by the motherboard’s manual. This will be in different spots on different motherboards
+    c.	If you have a NVMe SSD, install it in one of the NVMe slots indicated by the motherboard’s manual. This will be in different spots on different motherboards
 
-  d.	Install the CPU cooler onto the CPU according to the cooler’s manual. (Don’t forget thermal paste!!)
+    d.	Install the CPU cooler onto the CPU according to the cooler’s manual. (Don’t forget thermal paste!!)
 
   ![Motherboard](https://github.com/user-attachments/assets/416e8f30-6339-4799-a71f-fc7bb0a2a6f2)
  
