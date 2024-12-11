@@ -1,4 +1,4 @@
-#HOW TO BUILD A GAMING COMPUTER
+# HOW TO BUILD A GAMING COMPUTER
  
 This is a guide on building a computer considering that you already have all the parts ordered, and they are all compatible with each other. 
 A great way to do this is to visit pcpartpicker.com, and find a parts list from the main page that suits your budget and needs.
